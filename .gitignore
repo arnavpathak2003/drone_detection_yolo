@@ -1,0 +1,4 @@
+datasets/
+runs/
+yolo11n.pt
+yolov8n.pt
